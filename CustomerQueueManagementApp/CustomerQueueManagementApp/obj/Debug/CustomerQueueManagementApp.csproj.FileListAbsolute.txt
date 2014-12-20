@@ -1,0 +1,20 @@
+E:\project\19-12-14\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+K:\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Form1.resources
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+M:\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueUI.resources
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+H:\FTFL\BCC\ASP.NET\My Code\Day7 19-12-14\Practice5App\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb

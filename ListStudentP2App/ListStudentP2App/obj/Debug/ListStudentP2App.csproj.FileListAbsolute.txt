@@ -1,0 +1,9 @@
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\bin\Debug\ListStudentP2App.exe.config
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\bin\Debug\ListStudentP2App.exe
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\bin\Debug\ListStudentP2App.pdb
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.csprojResolveAssemblyReference.cache
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.StudenInfo.resources
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.Properties.Resources.resources
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.csproj.GenerateResource.Cache
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.exe
+E:\Rifat 19-12\ListStudentP2App\ListStudentP2App\obj\Debug\ListStudentP2App.pdb
